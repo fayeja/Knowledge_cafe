@@ -1,0 +1,29 @@
+.knowledge img{
+    width: 100%;
+    height: 450px;  
+    border-radius: 8px;
+}
+
+.knowledge a{
+    text-decoration: underline;
+}
+.author{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+
+.author img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-top: 25px;
+}
+
+.Author_img{
+    display: flex;
+    justify-content: flex-start;
+    gap: 25px;
+}
+

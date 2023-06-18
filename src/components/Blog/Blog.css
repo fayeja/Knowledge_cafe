@@ -1,0 +1,25 @@
+.blog_container{
+    display: flex;
+    gap: 25px;
+    padding: 25px;
+}
+.knowledge_container{
+    display: flex;
+    flex-direction: column;
+    /* display: grid;
+    grid-template-rows: repeat(1, 1fr); */
+    gap: 45px;
+    width: 70%;
+}
+.bookmark_container{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+}
+@media only screen and (max-width:480px){
+    .blog_container,.knowledge_container,.bookmark_container{
+        flex-direction: column;
+        width:100%;
+       margin-left: 40px;
+    }
+}

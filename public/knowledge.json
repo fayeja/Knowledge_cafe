@@ -1,0 +1,38 @@
+[
+	{
+		"id": 61683,
+		"name": "Drake Gomez",
+		"title": "Engineers working on project and programming in company",
+		"img": "https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?w=1800&t=st=1680262030~exp=1680262630~hmac=a6e53204e84bc8a5a0b32d6b86223c7420ea8c6012eec48c819bf97672a23957",
+		"Author_img": "https://cdn-icons-png.flaticon.com/512/488/488925.png?w=1060&t=st=1680262233~exp=1680262833~hmac=76f64c92369ba8e8aa6ee086a3758bedba0275c22265c75736650a4228323991",
+		"Read_time": 10,
+		"Publish_date": "Aug 31 (5 Days ago)"
+	},
+	{
+		"id": 48396,
+		"name": "Prescott Hensley",
+		"title": "Working moments- Group of young coworkers people in casual wear discussing business ideas while working in the office",
+		"img": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901789.jpg?w=1800&t=st=1680262075~exp=1680262675~hmac=9a972e1e07790f26773f4b2409bc9f9279375254b148dc745added9ded96ae6f",
+		"Author_img": "https://cdn-icons-png.flaticon.com/512/164/164600.png?w=1060&t=st=1680262187~exp=1680262787~hmac=e7da74925921dbbb1beb58ce238bcf26f7f0401fd475112857304ef296f19276",
+		"Read_time": 11,
+		"Publish_date": "Mar 25 (4 Days ago)"
+	},
+	{
+		"id": 14677,
+		"name": "Ulysses Estes",
+		"title": "Business professionals. Group of young confident business people analyzing data using computer while spending time in the office",
+		"img": "https://img.freepik.com/premium-photo/developing-programmer-development-website-design-coding-technologies_18497-1090.jpg?w=1800",
+		"Author_img": "https://cdn-icons-png.flaticon.com/512/957/957284.png?w=1060&t=st=1680262210~exp=1680262810~hmac=83ca37d92c407725025f4364d3c61269948ac702c7567ad0013e9dd5232277c5",
+		"Read_time": 12,
+		"Publish_date": "Sep 16 (2 Days ago)"
+	},
+	{
+		"id": 31001,
+		"name": "Neville Carrillo",
+		"title": "Group of business people and software developers working as a team in office",
+		"img": "https://img.freepik.com/free-photo/closeup-programer-hands-typing-machine-learning-code-laptop-keyboard-front-computer-screens-with-programming-interface-system-engineer-writing-algorithm-online-cloud-computing_482257-41853.jpg?w=2000&t=st=1680262138~exp=1680262738~hmac=ff36bc416aa66fa921ffc1aefa8b9ef489e79e5501025365812b5686c332650f",
+		"Author_img": "https://img.freepik.com/premium-vector/social-avatar-stories-gradient-frame_41737-3.jpg?w=1060",
+		"Read_time": 18,
+		"Publish_date": "Apr 1 (1 Days ago)"
+	}
+]

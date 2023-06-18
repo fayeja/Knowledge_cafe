@@ -1,0 +1,26 @@
+.cart_container {
+  display: grid;
+  grid-template-rows: 1fr 5fr;
+  gap: 25px;
+  text-align: center;
+}
+.spend_time {
+  background-color: #b2bad3;
+  border-radius: 8px;
+}
+.spend_time h2 {
+  color: rgb(85, 85, 237);
+}
+.Bookmark {
+  background-color: whitesmoke;
+  border-radius: 8px;
+}
+
+.content p {
+  background-color: white;
+  width: fit-content;
+  height: fit-content;
+  border-radius: 8px;
+  margin: 2rem;
+}
+
